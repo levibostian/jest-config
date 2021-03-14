@@ -1,0 +1,23 @@
+{
+    "name": "@levibostian/jest-config",
+    "description": "Opinionated config for Jest",
+    "version": "1.0.0",
+    "main": "jest-preset.js",
+    "license": "MIT",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/levibostian/jest-config.git"
+    },
+    "keywords": [
+        "jest"
+    ],
+    "author": "Levi Bostian <levi@levi.earth>",
+    "bugs": {
+        "url": "https://github.com/levibostian/jest-config/issues"
+    },
+    "homepage": "https://github.com/levibostian/jest-config#readme"
+}
