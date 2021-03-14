@@ -1,6 +1,5 @@
 module.exports = {
   moduleFileExtensions: ["js", "jsx", "json", "ts", "tsx"],
-  preset: "ts-jest",
   reporters: ["default", "jest-junit"],
   transformIgnorePatterns: ["/node_modules/"],
   testEnvironment: "node",
